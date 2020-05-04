@@ -22,7 +22,7 @@ const drawChart = function(dates, price, mcap) {
     options: {
       title: {
         display: false,
-        text: 'Population growth (millions): Europe & Africa'
+        text: 'Bitcoin growth: '
       },
       legend: { 
           display: false 

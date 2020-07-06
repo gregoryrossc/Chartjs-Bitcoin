@@ -1,5 +1,5 @@
 # Chartjs-Bitcoin
-Chartjs project price of Bitcoin live
+Chartjs mini project of Bitcoins price live
 
 View here:
 https://jsfiddle.net/yLtom4qs/
